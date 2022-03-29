@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShopShoperApp</string>
+    <string name="computer_icon">Comp</string>
+    <string name="contact_text">Contacts</string>
+    <string name="about_text">About us</string>
+    <string name="main_scen_text">MainPage</string>
+    <string name="logo_of_courses">Courses</string>
+    <string name="logo_of_app">App</string>
+</resources>
